@@ -1,2 +1,3 @@
+Stuffs I don't understand or haven't mastered
 # Java
-Proxy
+1, Proxy
